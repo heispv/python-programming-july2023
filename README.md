@@ -14,5 +14,5 @@ git clone https://github.com/heispv/python-programming-july2023.git
 | 04 | [Explore DataTypes 3](https://github.com/heispv/python-programming-july2023/blob/master/04_python_programming.ipynb) | `List methods`, `Tuple`, `Tuple methods`, `Dictionary`, `Dictionary methods` | | | 17 July 2023 |
 | 05 | [Let's Use Conditions](https://github.com/heispv/python-programming-july2023/blob/master/05_python_programming.ipynb) | `Set`, `Set methods`, `Conditional Formatting` | | | 19 July 2023 |
 | 06 | [Dive into Conditional Formatting](https://github.com/heispv/python-programming-july2023/blob/master/06_python_programming.ipynb) | `Conditional Formatting Examples` | | | 24 July 2023 |
-| 07 | [We can Loop](https://github.com/heispv/python-programming-july2023/blob/master/07_python_programming.ipynb) | `For Loop`, `While Loop`, `Loop Examples` | | | 26 July 2023 |
+| 07 | [We can Loop](https://github.com/heispv/python-programming-july2023/blob/master/07_python_programming.ipynb) | `For Loop`, `While Loop`, `Loop Examples` | [4th assignment](https://github.com/heispv/python-programming-july2023/blob/master/07_python_programming_assignment.ipynb) | | 26 July 2023 |
 | 08 | [Loop More with Examples](https://github.com/heispv/python-programming-july2023/blob/master/08_python_programming.ipynb) | `While Loop`, `Loop Examples` | | | 6 August 2023 |
